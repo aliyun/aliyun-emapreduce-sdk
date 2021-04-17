@@ -88,7 +88,7 @@
         <spark.redis.version>2.4.0</spark.redis.version>
         <phoenix.version>5.0.0-HBase-2.0</phoenix.version>
         <json4s.jackson.version>3.5.3</json4s.jackson.version>
-        <curator.version>4.2.0</curator.version>
+        <curator.version>4.3.0</curator.version>
         <delta.version>0.5.0</delta.version>
         <avro.mapred.classifier>hadoop2</avro.mapred.classifier>
         <PermGen>64m</PermGen>
