@@ -56,14 +56,14 @@
         <odps.version>0.28.4-public</odps.version>
         <loghubb.client.version>0.6.15</loghubb.client.version>
         <aliyun.sdk.core>4.3.2</aliyun.sdk.core>
-        <aliyun.log.version>0.6.37</aliyun.log.version>
-        <aliyun.log.producer.version>0.3.3</aliyun.log.producer.version>
+        <aliyun.log.version>0.6.56</aliyun.log.version>
+        <aliyun.log.producer.version>0.3.7</aliyun.log.producer.version>
         <ons.version>1.8.2.Final</ons.version>
         <mns.version>1.1.8.4</mns.version>
         <dts.version>3.0.0</dts.version>
         <dts.subsribe.version>4.6.27.12.0</dts.subsribe.version>
         <hadoop.version>2.9.0</hadoop.version>
-        <fastjson.version>1.2.45</fastjson.version>
+        <fastjson.version>1.2.69</fastjson.version>
         <hive.version>2.0.1</hive.version>
         <guava.version>14.0.1</guava.version>
         <scalatest.version>3.0.3</scalatest.version>
