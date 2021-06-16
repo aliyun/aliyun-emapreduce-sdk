@@ -62,7 +62,7 @@
         <mns.version>1.1.8.4</mns.version>
         <dts.version>3.0.0</dts.version>
         <dts.subsribe.version>4.6.27.12.0</dts.subsribe.version>
-        <hadoop.version>2.9.0</hadoop.version>
+        <hadoop.version>3.3.1</hadoop.version>
         <fastjson.version>1.2.45</fastjson.version>
         <hive.version>2.0.1</hive.version>
         <guava.version>14.0.1</guava.version>
