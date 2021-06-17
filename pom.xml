@@ -65,7 +65,7 @@
         <hadoop.version>2.9.0</hadoop.version>
         <fastjson.version>1.2.45</fastjson.version>
         <hive.version>2.0.1</hive.version>
-        <guava.version>14.0.1</guava.version>
+        <guava.version>30.0-android</guava.version>
         <scalatest.version>3.0.3</scalatest.version>
         <junit.version>4.8.2</junit.version>
         <eclipse.jetty>9.3.24.v20180605</eclipse.jetty>
@@ -74,12 +74,12 @@
         <gson.version>2.8.5</gson.version>
         <dropwizard.metrics.version>3.1.0</dropwizard.metrics.version>
         <okhttp3.version>3.12.0</okhttp3.version>
-        <zkclient.version>0.10</zkclient.version>
+        <zkclient.version>0.11</zkclient.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <commons.lang3.version>3.3.2</commons.lang3.version>
         <kafka.version>2.0.0</kafka.version>
         <yammer.metrics.version>2.2.0</yammer.metrics.version>
-        <datahub.verion>2.13.0-public</datahub.verion>
+        <datahub.verion>2.19.0-public</datahub.verion>
         <confluent.version>5.0.0</confluent.version>
         <avro.version>1.8.2</avro.version>
         <protobuf.version>2.5.0</protobuf.version>
