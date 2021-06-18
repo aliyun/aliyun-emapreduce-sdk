@@ -65,7 +65,7 @@
         <hadoop.version>2.9.0</hadoop.version>
         <fastjson.version>1.2.45</fastjson.version>
         <hive.version>2.0.1</hive.version>
-        <guava.version>14.0.1</guava.version>
+        <guava.version>30.0-android</guava.version>
         <scalatest.version>3.0.3</scalatest.version>
         <junit.version>4.8.2</junit.version>
         <eclipse.jetty>9.3.24.v20180605</eclipse.jetty>
