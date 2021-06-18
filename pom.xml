@@ -79,7 +79,7 @@
         <commons.lang3.version>3.3.2</commons.lang3.version>
         <kafka.version>2.0.0</kafka.version>
         <yammer.metrics.version>2.2.0</yammer.metrics.version>
-        <datahub.verion>2.13.0-public</datahub.verion>
+        <datahub.verion>2.19.0-public</datahub.verion>
         <confluent.version>5.0.0</confluent.version>
         <avro.version>1.8.2</avro.version>
         <protobuf.version>2.5.0</protobuf.version>
