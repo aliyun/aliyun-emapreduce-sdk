@@ -51,7 +51,7 @@
         <scala.version>2.11.7</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
         <spark.version>2.4.3</spark.version>
-        <oss.sdk.version>3.0.0</oss.sdk.version>
+        <oss.sdk.version>3.5.0-async-a</oss.sdk.version>
         <tablestore.sdk.version>5.5.1</tablestore.sdk.version>
         <odps.version>0.28.4-public</odps.version>
         <loghubb.client.version>0.6.15</loghubb.client.version>
